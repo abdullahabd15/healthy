@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="membership_bblk">Membership BBLK</string>
+    <string name="msg_complete_your_profile">Lengkapi profile Anda untuk memaksimalkan penggunaan aplikasi</string>
+    <string name="choose_data_to_display">Pilih data yang ingin ditampilkan</string>
+    <string name="self_data">Data Diri</string>
+    <string name="data_according_to_ktp">Data diri Anda sesuai KTP</string>
+    <string name="first_name">Nama Depan</string>
+    <string name="last_name">Nama Belakang</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Masukkan email Anda</string>
+    <string name="phone_number">No.Telepon</string>
+    <string name="enter_your_phone_number">Masukkan no telepon Anda</string>
+    <string name="ktp_number">No.KTP</string>
+    <string name="enter_your_ktp_number">Masukkan no KTP Anda</string>
+    <string name="msg_make_sure_data">Pastikan profile Anda terisi dengan benar, data pribadi Anda terjamin keamanannya</string>
+    <string name="save_profile">Simpan Profile</string>
+    <string name="my_profile">Profile Saya</string>
+    <string name="settings">Pengaturan</string>
+    <string name="msg_update_profile_success">Update profil sukses</string>
+</resources>

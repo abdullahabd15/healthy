@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Hai, Selamat Datang</string>
+    <string name="login_to_continue">Silahkan login untuk melanjutkan</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Masukkan email Anda</string>
+    <string name="password">Password</string>
+    <string name="quest_forgot_your_password">Lupa password Anda?</string>
+    <string name="enter_your_password">Masukkan password Anda</string>
+    <string name="login">Login</string>
+    <string name="quest_not_have_account">Belum punya akun ?</string>
+    <string name="register_now">Daftar sekarang</string>
+    <string name="silk_all_right_reserved">Ⓒ SILK. all right reserved.</string>
+    <string name="first_name">Nama Depan</string>
+    <string name="last_name">Nama Belakang</string>
+    <string name="id_card_number">No. KTP</string>
+    <string name="enter_your_id_card_number">Masukkan No.KTP Anda</string>
+    <string name="phone_number">No. Telepon</string>
+    <string name="enter_your_phone_number">Masukkan No.Telepon Anda</string>
+    <string name="confirm_password">Konfirmasi Password</string>
+    <string name="register">Register</string>
+    <string name="quest_already_registered">Sudah punya akun ?</string>
+    <string name="login_now">Login sekarang</string>
+    <string name="msg_register_succeed_please_login">Register berhasil, silahkan login!</string>
+</resources>

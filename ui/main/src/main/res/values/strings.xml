@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="membership_bblk">Membership BBLK</string>
+    <string name="my_profile">Profile Saya</string>
+    <string name="settings">Pengaturan</string>
+    <string name="logout">Logout</string>
+    <string name="follow_me_on">"Ikuti kami di "</string>
+    <string name="faq">FAQ</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="choose_medical_service_type">Pilih tipe layanan kesehatan Anda</string>
+    <string name="inspection_history">Track Pemeriksaan</string>
+    <string name="track">Track</string>
+    <string name="you_can_check_inspection_progress">Kamu dapat mengecek progress pemeriksaanmu disini</string>
+    <string name="search">Search</string>
+    <string name="your_health_solution">Solusi Kesehatan Anda</string>
+    <string name="information_abount_health_in_here">Update informasi seputar kesehatan semua bisa disini!</string>
+    <string name="show_more">Selengkapnya</string>
+    <string name="special_services">Layanan Khusus</string>
+    <string name="covid_test_to_avoid_corona_virus">Test Covid 19, Cegah Corona sedini mungkin</string>
+    <string name="register_test">Daftar Tes</string>
+</resources>
